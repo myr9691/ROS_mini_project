@@ -4,14 +4,6 @@
 Ubuntu 16.04 LTS, Raspberry pi 3, OpenCR
 ***
 
-### 1) PC
-
-### 2) Raspberry pi 3
-
-### 3) OpenCR
-
-***
-
 #### 프로젝트 개요
 * 개발 목표
    * 장애물 인식 시스템 
